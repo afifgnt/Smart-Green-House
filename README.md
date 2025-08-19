@@ -13,4 +13,20 @@ Cara Kerja L
 1. TDS untuk mengukur nutrisi
 2. Sensor ultrasonic untuk mengukur jarak atau ketinggian tandon air
 3. LCD I2C 20 x 4 untuk menampilkan ukuran
-4. ESP 32 
+4. ESP 32
+
+Skema pin :
+
+LCD I2C :
+1. SDA pin 21
+2. SCL pin 22
+
+TDS Meter
+1. VCC
+2. GND
+3. pin 34
+
+Sensor Jarak
+
+Trig pin 4
+Echo 16
